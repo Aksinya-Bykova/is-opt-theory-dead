@@ -1,5 +1,7 @@
 # Градиентный спуск: теория vs реальность
 
+Адаптация гайда с ICML 2026: [Is numerical optimization theory irrelevant to machine learning practice in 2026?](https://www.cs.ubc.ca/~schmidtm/Documents/2026_ICML_Tutorial.pdf)
+
 ## Часть 1. Что такое градиентный спуск (идеальный мир)
 
 Представьте, что наша модель — это функция $f(w)$, где $w$ — это веса (параметры) модели. Наша задача — найти такие веса, при которых ошибка (loss) на обучающей выборке будет минимальной:
